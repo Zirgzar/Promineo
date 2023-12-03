@@ -1,6 +1,0 @@
-INDEX VERSION 1.134+/Users/sethtor/Documents/Promineo/.metadata/.plugins/org.eclipse.jdt.core
-3927879410.index
-1519498844.index
-1865797976.index
-596742087.index
-2278277290.index
